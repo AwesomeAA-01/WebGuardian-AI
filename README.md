@@ -1,7 +1,5 @@
 # Phishing URL Detection 
-![image](https://drive.google.com/file/d/1_CzrKpW25SjPTe2qsILUEIHh609uXqpJ/view?usp=sharing)
-![image](https://drive.google.com/file/d/1EmaLwWf6DzO2syXNwSh-2lT_TjcRPhB8/view?usp=sharing)
-![image](https://drive.google.com/file/d/1cQGvQOvbXrTodV4QYMcqjOyuVFvYmylj/view?usp=sharing)
+![Alt text](img-1-1.png) ![Alt text](img-2.png) ![Alt text](img-3.png)
 
 ## Table of Content
   * [Introduction](#introduction)
