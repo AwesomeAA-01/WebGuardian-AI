@@ -13,7 +13,7 @@
 
 ## Introduction
 
-The Internet has become integral to our lives, yet it also facilitates malicious activities like Phishing. Phishers exploit anonymity to deceive victims through social engineering or mockup websites, stealing sensitive information. Despite evolving detection methods, Machine Learning emerges as a potent tool. Phishing attacks exhibit common characteristics discernible by ML, offering an effective means to counter these threats.To view our project, click here"<https://colab.research.google.com/drive/18oVAKolNZUjU4XIgAiCryv-wQrY-K_xT?usp=sharing>"
+The Internet has become integral to our lives, yet it also facilitates malicious activities like Phishing. Phishers exploit anonymity to deceive victims through social engineering or mockup websites, stealing sensitive information. Despite evolving detection methods, Machine Learning emerges as a potent tool. Phishing attacks exhibit common characteristics discernible by ML, offering an effective means to counter these threats.To view our project, [click here](<https://colab.research.google.com/drive/18oVAKolNZUjU4XIgAiCryv-wQrY-K_xT?usp=sharing>).
 
 
 ## Installation
