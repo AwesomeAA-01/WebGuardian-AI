@@ -1,7 +1,7 @@
 # Phishing URL Detection 
 ![image](https://drive.google.com/file/d/1_CzrKpW25SjPTe2qsILUEIHh609uXqpJ/view?usp=sharing)
 ![image](https://drive.google.com/file/d/1EmaLwWf6DzO2syXNwSh-2lT_TjcRPhB8/view?usp=sharing)
-![image](https://drive.google.com/file/d/1cQGvQOvbXrTodV4QYMcqjOyuVFvYmylj/view?usp=sharing)
+![image](https://github.com/AwesomeAA-01/WebGuardian-AI/blob/main/img-3.png)
 
 ## Table of Content
   * [Introduction](#introduction)
