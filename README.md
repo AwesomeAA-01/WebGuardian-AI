@@ -13,7 +13,7 @@
 
 ## Introduction
 
-The Internet has become integral to our lives, yet it also facilitates malicious activities like Phishing. Phishers exploit anonymity to deceive victims through social engineering or mockup websites, stealing sensitive information. Despite evolving detection methods, Machine Learning emerges as a potent tool. Phishing attacks exhibit common characteristics discernible by ML, offering an effective means to counter these threats. 
+The Internet has become integral to our lives, yet it also facilitates malicious activities like Phishing. Phishers exploit anonymity to deceive victims through social engineering or mockup websites, stealing sensitive information. Despite evolving detection methods, Machine Learning emerges as a potent tool. Phishing attacks exhibit common characteristics discernible by ML, offering an effective means to counter these threats.To view our project, click here"<https://colab.research.google.com/drive/18oVAKolNZUjU4XIgAiCryv-wQrY-K_xT?usp=sharing>"
 
 
 ## Installation
@@ -59,16 +59,16 @@ Accuracy of various model used for URL detection
 
 ||ML Model|	Accuracy|  	f1_score|	Recall|	Precision|
 |---|---|---|---|---|---|
-0|	Gradient Boosting Classifier|	0.974|	0.977|	0.994|	0.986|
-1|	CatBoost Classifier|	        0.972|	0.975|	0.994|	0.989|
-2|	XGBoost Classifier| 	        0.969|	0.973|	0.993|	0.984|
-3|	Multi-layer Perceptron|	        0.969|	0.973|	0.995|	0.981|
-4|	Random Forest|	                0.967|	0.971|	0.993|	0.990|
-5|	Support Vector Machine|	        0.964|	0.968|	0.980|	0.965|
-6|	Decision Tree|      	        0.960|	0.964|	0.991|	0.993|
-7|	K-Nearest Neighbors|        	0.956|	0.961|	0.991|	0.989|
-8|	Logistic Regression|        	0.934|	0.941|	0.943|	0.927|
-9|	Naive Bayes Classifier|     	0.605|	0.454|	0.292|	0.997|
+1|	Gradient Boosting Classifier|	0.974|	0.977|	0.994|	0.986|
+2|	CatBoost Classifier|	        0.972|	0.975|	0.994|	0.989|
+3|	XGBoost Classifier| 	        0.969|	0.973|	0.993|	0.984|
+4|	Multi-layer Perceptron|	        0.969|	0.973|	0.995|	0.981|
+5|	Random Forest|	                0.967|	0.971|	0.993|	0.990|
+6|	Support Vector Machine|	        0.964|	0.968|	0.980|	0.965|
+7|	Decision Tree|      	        0.960|	0.964|	0.991|	0.993|
+8|	K-Nearest Neighbors|        	0.956|	0.961|	0.991|	0.989|
+9|	Logistic Regression|        	0.934|	0.941|	0.943|	0.927|
+10|	Naive Bayes Classifier|     	0.605|	0.454|	0.292|	0.997|
 
 Feature importance for Phishing URL Detection 
 <br><br>
