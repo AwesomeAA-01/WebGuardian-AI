@@ -1,6 +1,6 @@
 # Phishing URL Detection 
-![image](https://drive.google.com/file/d/1_CzrKpW25SjPTe2qsILUEIHh609uXqpJ/view?usp=sharing)
-![image](https://drive.google.com/file/d/1EmaLwWf6DzO2syXNwSh-2lT_TjcRPhB8/view?usp=sharing)
+![image](https://github.com/AwesomeAA-01/WebGuardian-AI/blob/main/img-1.png)
+![image](https://github.com/AwesomeAA-01/WebGuardian-AI/blob/main/img-2.png)
 ![image](https://github.com/AwesomeAA-01/WebGuardian-AI/blob/main/img-3.png)
 
 ## Table of Content
@@ -72,7 +72,7 @@ Accuracy of various model used for URL detection
 
 Feature importance for Phishing URL Detection 
 <br><br>
-![image](https://drive.google.com/file/d/1XSHN1E6t70KSx4Vd-W3HCS9ex04xH6hi/view?usp=sharing)
+![image](https://github.com/AwesomeAA-01/WebGuardian-AI/blob/main/img-4.png)
 
 
 
