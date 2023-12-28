@@ -1,6 +1,7 @@
 # Phishing URL Detection 
-![image](https://user-images.githubusercontent.com/79131292/144742825-23367f0f-9e67-4c99-ba1f-b86a187675c9.png)
-![image](https://user-images.githubusercontent.com/79131292/144742785-d183f50a-52d6-4296-a43a-90a1ee3502d8.png)
+![image](https://drive.google.com/file/d/1_CzrKpW25SjPTe2qsILUEIHh609uXqpJ/view?usp=sharing)
+![image](https://drive.google.com/file/d/1EmaLwWf6DzO2syXNwSh-2lT_TjcRPhB8/view?usp=sharing)
+![image](https://drive.google.com/file/d/1cQGvQOvbXrTodV4QYMcqjOyuVFvYmylj/view?usp=sharing)
 
 ## Table of Content
   * [Introduction](#introduction)
@@ -71,7 +72,7 @@ Accuracy of various model used for URL detection
 
 Feature importance for Phishing URL Detection 
 <br><br>
-![image](https://user-images.githubusercontent.com/79131292/144603941-19044aae-7d7b-4e9a-88a8-6adfd8626f77.png)
+![image](https://drive.google.com/file/d/1XSHN1E6t70KSx4Vd-W3HCS9ex04xH6hi/view?usp=sharing)
 
 
 
