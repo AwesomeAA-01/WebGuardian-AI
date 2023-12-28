@@ -78,7 +78,12 @@ Feature importance for Phishing URL Detection
 
 
 ## Conclusion
-1. The final take away form this project is to explore various machine learning models, perform Exploratory Data Analysis on phishing dataset and understanding their features. 
-2. Creating this notebook helped me to learn a lot about the features affecting the models to detect whether URL is safe or not, also I came to know how to tuned model and how they affect the model performance.
-3. The final conclusion on the Phishing dataset is that the some feature like "HTTTPS", "AnchorURL", "WebsiteTraffic" have more importance to classify URL is phishing URL or not. 
-4. Gradient Boosting Classifier currectly classify URL upto 97.4% respective classes and hence reduces the chance of malicious attachments.
+1.The project's primary objective was to explore a range of machine learning models and conduct in-depth Exploratory Data Analysis on a phishing dataset to gain insights into their distinctive features.
+
+2.The creation of the project notebook proved instrumental in enhancing the understanding of the key features influencing models in determining the safety of URLs, shedding light on the nuanced aspects of model performance and fine-tuning.
+
+3.Notable features such as "HTTPS," "AnchorURL," and "WebsiteTraffic" emerged as crucial factors in differentiating between phishing and non-phishing URLs, underscoring their significance in the classification process.
+
+4.The analysis revealed that the Gradient Boosting Classifier exhibited a remarkable accuracy of 97.4%, showcasing its proficiency in accurately classifying URLs and, consequently, reducing the risk associated with malicious attachments.
+
+5.The conclusive findings emphasized the importance of specific features in the phishing dataset, providing valuable insights for future endeavors in developing and refining machine learning models for URL classification and security.
